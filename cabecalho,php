@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Minha loja</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="bs/css/bootstrap.css">
+        <link rel="stylesheet" href="CSS/loja.css">
+    
+    </head>
+    <body>
+        <div class="container">
+            <div class="principal">
